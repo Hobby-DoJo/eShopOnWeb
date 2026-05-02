@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: d4b299ad-3494-4b26-a804-168b7f0166ca
-  WEBAPP-NAME: devops-webapp-centralin-dojo
+  WEBAPP-NAME: devops-webapp-centralin-dojo-01
 
 
 jobs:
